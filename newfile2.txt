@@ -1,1 +1,2 @@
 Hello, its next commit
+Information in new file
